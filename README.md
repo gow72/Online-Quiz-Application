@@ -1,8 +1,10 @@
 Online Quiz Application (Java Backend)
+---
 This is a Java-based backend project for an Online Quiz Application, built using JDBC and MySQL. It supports user authentication, quiz creation, question management, quiz attempts, scoring, and leaderboard tracking.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅ Features
+--
 User registration and login with password hashing
 Quiz creation, updating, and deletion
 Add questions and options to quizzes
@@ -10,6 +12,7 @@ Record user attempts and calculate scores
 Leaderboard and quiz history tracking
 
 JDBC-based MySQL database integration
+-
 🛠 Technologies Used
 Java (Core)
 JDBC (Database connectivity)
