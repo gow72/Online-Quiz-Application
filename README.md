@@ -7,6 +7,7 @@ Quiz creation, updating, and deletion
 Add questions and options to quizzes
 Record user attempts and calculate scores
 Leaderboard and quiz history tracking
+
 JDBC-based MySQL database integration
 🛠 Technologies Used
 Java (Core)
