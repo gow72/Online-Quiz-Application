@@ -54,7 +54,7 @@ leaderboard	(Optional) Tracks top scorers
 The complete schema is available in schema.sql.
 
 🚀 How to Run the Project
-1️⃣ Clone the repository
+1️⃣ Clone the Repository
 git clone https://github.com/gow72/Online-Quiz-Application.git
 cd Online-Quiz-Application
 
@@ -79,18 +79,16 @@ private static final String USER = "root";
 private static final String PASSWORD = "your_password";
 
 5️⃣ Run the Application
+# Compile the project
+javac *.java
 
-Compile and run the Java classes.
+# Run the main class
+java Main
 
-Test quiz creation, question addition, attempts, and leaderboard.
+
+Or directly run the Java classes in your IDE to test features like quiz creation, question addition, attempts, and leaderboard.
 
 📧 Contact
 
 Author: Gowtham Tulluri
 📩 Email: tullurigowtham294@gmail.com
-Run the Java classes for testing functionalities
-
-
-📧 Contact
-
-For queries or collaboration: Gowtham Tulluri 📧 tullurigowtham294@gmail.com
