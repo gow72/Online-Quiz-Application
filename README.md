@@ -14,10 +14,15 @@ Leaderboard and quiz history tracking
 JDBC-based MySQL database integration
 -
 🛠 Technologies Used
+
 Java (Core)
+
 JDBC (Database connectivity)
+
 MySQL (Database)
+
 Git (Version control)
+
 📁 Project Structure
 quiz-app-backend/
 ├── DBConnection.java
