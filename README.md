@@ -55,8 +55,8 @@ The complete schema is available in schema.sql.
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/gow72/Online-Quiz-Application.git
-cd Online-Quiz-Application
+'''git clone https://github.com/gow72/Online-Quiz-Application.git
+cd Online-Quiz-Application'''
 
 2️⃣ Import into IDE
 
